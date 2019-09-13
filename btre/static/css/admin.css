@@ -8,6 +8,11 @@
     color: #ffffff;
 }
 
+.fas fa-home {
+    width: 50px;
+    height: 50px;
+}
+
 a:link,
 a:visited {
     color: #10284e;
